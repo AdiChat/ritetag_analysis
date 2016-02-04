@@ -18,7 +18,7 @@ $ bundle install
 Install the gem :
 
 ```ruby
-$ gem install ritetag
+$ gem install ritetag_analysis
 ```
 
 ## Usage
