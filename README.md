@@ -1,4 +1,6 @@
 # :gem: RiteTag Analysis :star:
+[![Gem Version](https://badge.fury.io/rb/ritetag_analysis.svg)](https://badge.fury.io/rb/ritetag_analysis) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+![alt text](https://img.shields.io/badge/ritetag__analysis-good-green.svg " Profile Bin")
 
 A gem for <strong>Social Media Optimization</strong>.<br>
 This gem will be upgraded frequently thereby incorporating more useful methods aiding in extensive hashtag analysis.
