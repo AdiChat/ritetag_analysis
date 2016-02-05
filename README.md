@@ -58,4 +58,4 @@ Bug reports and pull requests are welcomed. Feel free to fork me.
 
 ## License
 
-The gem is available as open source project under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+The gem is available as open source project under the terms of the [MIT License](https://github.com/AdiChat/ritetag_analysis/blob/master/LICENSE).
