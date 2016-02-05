@@ -3,7 +3,8 @@
 ![alt text](https://img.shields.io/badge/ritetag__analysis-good-green.svg " Profile Bin")
 
 A gem for <strong>Social Media Optimization</strong>.<br>
-This gem will be upgraded frequently thereby incorporating more useful methods aiding in extensive hashtag analysis.
+This gem will be upgraded frequently thereby incorporating more useful methods aiding in extensive hashtag analysis.<br>
+Find the gem [here](https://rubygems.org/gems/ritetag_analysis).
 
 ## Installation
 
