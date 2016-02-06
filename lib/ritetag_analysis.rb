@@ -7,8 +7,7 @@ class RiteTag_Analysis
 	def initialize(auth)
 		@auth = auth
 		@consumer=OAuth::Consumer.new @auth['consumer_key'], @auth['consumer_secret'], {:site=>"http://ritetag.com/api/v2"}
-
-        @access_token = OAuth::AccessToken.new(@consumer, @auth['token'], @auth['token_secret'])
+        	@access_token = OAuth::AccessToken.new(@consumer, @auth['token'], @auth['token_secret'])
 	end
 
 	def statistics(query)
