@@ -39,5 +39,4 @@ class RiteTag_Analysis
 		response_json = JSON.pase(respone)
 		puts response_json
 	end
-
 end
