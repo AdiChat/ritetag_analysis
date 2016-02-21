@@ -55,9 +55,9 @@ All the other useful methods are used to get various information regarding user 
 ## Author
 The gem <i><strong>ritetag_analysis</strong></i> has been coded by <strong>[Aditya Chatterjee](http://github.com/AdiChat)</strong>.
 
-## Contributing
+## Contributing :pray:
 
-Bug reports and pull requests are welcomed. Feel free to fork me.
+Bug reports and pull requests are welcomed. Feel free to add me.
 
 ## License
 
